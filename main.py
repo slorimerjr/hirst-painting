@@ -86,7 +86,6 @@ import colorgram
 
 # teacher's solution 10 x 10 dot grid
 
-
 import turtle as turtle_module
 import random
 
