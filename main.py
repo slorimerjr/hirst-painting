@@ -104,7 +104,7 @@ tim.setheading(225)
 tim.forward(250)
 tim.setheading(0)
 number_of_dots = 101
-print(tim.pos())
+tim.shape('turtle')
 
 
 
